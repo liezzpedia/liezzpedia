@@ -2,7 +2,7 @@
 
 ### ℹ️ Tentang Saya
 
-Hallo saya **Liezz** saya adalah progamer pemula, Project yang saya buat ** SC Bot WhatsApp** **Web Portofolio** && **REST API**
+Hallo saya **Liezz** saya adalah progamer pemula, Project yang saya buat **Web Portofolio** && **REST API**
 
 
 ### 💻 Bahasa Programming 
@@ -70,11 +70,11 @@ Hallo saya **Liezz** saya adalah progamer pemula, Project yang saya buat ** SC B
 
 ## 📬 HUBUNGI SAYA
 
-<a href="https://wa.me/6285183060753">
+<a href="https://wa.me/6285758409674">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
-<a href="https://t.me/liezzstor">
+<a href="https://t.me/liezskiy">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
